@@ -1,6 +1,6 @@
 # ChatHMRC Code Explanation
 
-Note: This and ChatHMRC is not endorsed or associated with HMRC. All content is for informational purposes only and is not financial advice.
+Note: This and ChatHMRC are not endorsed or associated with HMRC. All content is for informational purposes only and is not financial advice.
 
 Link to demo: https://chat-hmrc.vercel.app/
 
@@ -20,7 +20,7 @@ There is tons of content on this website, but I ended up going with https://www.
 
 I used Python to scrape the https://www.gov.uk website just for simplicity.
 
-You can view the scraping file in [this directory](python-scraping-scripts).
+You can view the scraping files in [this directory](python-scraping-scripts).
 
 ### First file [scrape-gov.py](python-scraping-scripts/scrape-gov.py)
 
